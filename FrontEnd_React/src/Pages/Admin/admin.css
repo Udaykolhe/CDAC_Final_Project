@@ -1,0 +1,18 @@
+h2.title {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: 50px;
+}
+
+.imageBack {
+  height: 100%;
+  /* position: absolute; */
+  left: 3%;
+  
+  width: 100%;
+  overflow: hidden;
+  /* background: url('F:/backup/CDAC/adv java/final project frontend/SigninSigupFormat/my-app/src/Pages/image/e-learning.jpg'); */
+  background-size: 100%;
+}

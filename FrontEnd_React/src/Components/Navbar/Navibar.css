@@ -1,0 +1,26 @@
+/* .justify-content-end{
+    display: flex;
+} */
+
+.Main-Nav{
+    top: 0px;
+    background: transparent;
+    height: 75px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -16px;
+    background-color: rgba(247, 247, 247, 0.041);
+    font-weight: 400;
+    font-size:xx-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+            
+                   
+}
+
+
+
+.Nav-href{
+    font-weight: 500;
+}
